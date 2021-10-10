@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recylerview</string>
+    <string name="heroes_name">superheroes</string>
+    <string name="description">description</string>
+    <string name="textview">TextView</string>
+    <string name="gambar">gambar</string>
+</resources>
